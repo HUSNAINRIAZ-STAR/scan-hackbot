@@ -1,0 +1,6 @@
+# PortLens uses only the Python standard library (Python 3.9+).
+# No third-party packages are required to run it.
+#
+# Optional development tools (uncomment if you want them):
+# pytest>=8.0
+# flake8>=7.0
